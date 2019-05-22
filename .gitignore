@@ -1,0 +1,8 @@
+.DS_Store
+.import/
+.vscode/
+.mono/
+logs/
+*.log*
+
+export_presets.cfg
