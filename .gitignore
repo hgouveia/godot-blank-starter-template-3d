@@ -4,5 +4,5 @@
 .mono/
 logs/
 *.log*
-
+*.import
 export_presets.cfg
