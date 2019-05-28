@@ -6,5 +6,5 @@ sky_top_color = Color( 1, 1, 1, 1 )
 [resource]
 background_mode = 2
 background_sky = SubResource( 1 )
+ss_reflections_enabled = true
 ssao_enabled = true
-
